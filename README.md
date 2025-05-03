@@ -1,2 +1,2 @@
-# IS597_Final_Project
+# IS_597_Project
 Final Project for IS597
